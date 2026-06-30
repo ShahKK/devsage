@@ -4,7 +4,7 @@
 
 Built end-to-end on **Next.js (App Router)** and the **Vercel AI SDK**, with **OpenAI** for chat + embeddings and **Postgres + pgvector** (Neon) as the vector store.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/devsage&env=OPENAI_API_KEY,DATABASE_URL&envDescription=OpenAI%20key%20and%20a%20Neon%20Postgres%20connection%20string)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ShahKK/devsage&env=OPENAI_API_KEY,DATABASE_URL&envDescription=OpenAI%20key%20and%20a%20Neon%20Postgres%20connection%20string)
 
 > Live demo: _add your Vercel URL here_
 
@@ -62,7 +62,7 @@ Built end-to-end on **Next.js (App Router)** and the **Vercel AI SDK**, with **O
 ## Local setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/devsage
+git clone https://github.com/ShahKK/devsage
 cd devsage
 npm install
 cp .env.example .env.local   # fill in OPENAI_API_KEY and DATABASE_URL

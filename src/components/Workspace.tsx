@@ -48,7 +48,9 @@ export function Workspace() {
         </div>
 
         <a
-          href="https://github.com"
+          href="https://github.com/ShahKK/devsage"
+          target="_blank"
+          rel="noopener"
           className="text-[11px] text-neutral-600 hover:text-neutral-400"
         >
           Open source · MIT
